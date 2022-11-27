@@ -35,6 +35,6 @@ export default create({
 
   brandTitle: 'My custom storybook',
   brandUrl: 'https://example.com',
-  brandImage: 'https://place-hold.it/350x150',
+  brandImage: 'https://i.postimg.cc/pLp2tZjx/icons8-green-64.png',
   brandTarget: '_self',
 });

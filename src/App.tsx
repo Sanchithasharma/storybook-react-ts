@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { theme } from "../public/theme";
+import { theme } from "./theme";
 import { ThemeProvider } from "@mui/material/styles";
 
 function App() {

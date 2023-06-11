@@ -1,4 +1,3 @@
-import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
 
 
 const customViewports = {
